@@ -175,5 +175,6 @@ public class Main {
         System.out.println("Том сыт: " + cat3.isFull());
 
 
+
     }
 }
